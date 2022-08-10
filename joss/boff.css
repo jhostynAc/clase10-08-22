@@ -1,0 +1,33 @@
+body{
+    color: white;
+    text-align: center;
+    background-image: url(./pngtree-coffee-background-image_590609.jpg);
+   
+  
+}
+.tabla{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.documeto{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.ciudad{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.musica{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.boton{
+    align-items: center;
+    margin-top: 50px;
+}
